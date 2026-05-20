@@ -1,0 +1,8 @@
+{
+  "name": "nostraap",
+  "version": "1.0.0",
+  "description": "NostraApp is a decentralized messaging application inspired by WhatsApp, built on the Nostr protocol, with native support for end-to-end encryption, distributed relay networks, and Bitcoin Lightning payments (Zaps).",
+  "author": "@CCS",
+  "license": "ISC",
+  "packageManager": "pnpm@10.32.1"
+}
